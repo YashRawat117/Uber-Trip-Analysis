@@ -48,5 +48,3 @@ Built an Uber Trip Data Analysis dashboard in Power BI to analyze trip volume, r
 ## Author
 **Yash Rawat**
 
-## Author
-**Yash Rawat**
